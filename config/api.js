@@ -1,5 +1,8 @@
 // const ApiRoot = 'http://localhost:8360';
 // const ApiRoot = 'http://192.168.0.113:8360';
+const ApiRoot = 'https://dev-114074-5-1327784775.sh.run.tcloudbase.com';
+
+
 const ApiRootUrl = ApiRoot + '/api/'
 
 module.exports = {
